@@ -46,6 +46,24 @@ export AWS_DEFAULT_REGION=your_preferred_region
 
 When you first run Amazon Q CLI, you'll be prompted to authenticate with your AWS account. The tool will use the credentials you exported.
 
+![image](https://github.com/user-attachments/assets/e528c2ef-95a8-4bd1-81f7-2ab113a2878d)
+
+![image](https://github.com/user-attachments/assets/aec13715-118b-4b8c-bc10-739cdbed0bc1)
+
+![image](https://github.com/user-attachments/assets/b69c7c7d-9d46-44bc-8201-4a06004dfaae)
+
+![image](https://github.com/user-attachments/assets/04ddd18a-ff50-4d1c-8754-b441a61417db)
+
+![image](https://github.com/user-attachments/assets/8d3de9b0-51d1-4451-8198-fa99b0307211)
+
+![image](https://github.com/user-attachments/assets/c0f30205-5d9f-48a4-ac0f-b2f20e7733b2)
+
+
+
+
+
+
+
 ### 7. Start Amazon Q
 
 ```bash
@@ -56,9 +74,15 @@ q chat
 
 After authentication, you'll see a welcome message with information about Amazon Q's capabilities and how to interact with it.
 
+![image](https://github.com/user-attachments/assets/4b982cf9-4008-4f15-8d0a-38ab40b1daa3)
+
+
 ### 9. Navigate the platform
 
 Type `/help` to display all available commands and navigation options.
+
+![image](https://github.com/user-attachments/assets/3145fdec-057e-45d2-afb7-99ec8cfcb686)
+
 
 Key commands include:
 - `/quit` - Exit Amazon Q CLI
@@ -75,10 +99,15 @@ Check out these powerful examples of what Amazon Q CLI can do:
 "List all my EC2 instances in us-west-2 region"
 ```
 
+![image](https://github.com/user-attachments/assets/4d9d7b92-040f-45d0-b2c1-02d959d29795)
+
+
 ### Code generation
 ```
 "Write a Python Lambda function that processes S3 events"
 ```
+![image](https://github.com/user-attachments/assets/76dc18ec-d286-46b4-84cc-06dfcd23d101)
+
 
 ### Troubleshooting
 ```
@@ -89,11 +118,15 @@ Check out these powerful examples of what Amazon Q CLI can do:
 ```
 "Create a CloudFormation template for a VPC with public and private subnets"
 ```
+![image](https://github.com/user-attachments/assets/f2d72c34-d6c6-4174-b889-fb841ba3bb78)
+
 
 ### Local file operations
 ```
 "Find all Python files in my current directory that use boto3"
 ```
+![image](https://github.com/user-attachments/assets/d839d921-8ce7-4d99-89fb-1eb392feb546)
+
 
 ## Resources
 
